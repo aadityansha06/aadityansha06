@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Aadityansha! 👋</h1>  
-<h3 align="center">A passionate student, web developer, and JEE aspirant.</h3>  
+<h3 align="center">A passionate student, backend & web developer, and JEE aspirant.</h3>  
 
 ---
 
 ### 🔥 About Me  
-🔭 **Currently working on:** Web development & JEE preparation  
-🌱 **Learning:** DSA, frontend frameworks & problem-solving  
-👯 **Looking for collaboration:** Open-source & web projects  
+🔭 **Currently working on:** Backend & Web development & JEE preparation  
+🌱 **Learning:** DSA, backend frameworks & problem-solving  
+👯 **Looking for collaboration:** Open-source & backend/web projects  
 🤝 **Open to:** Learning new tech & contributing to projects  
-📫 **Reach me at:** [Telegram](https://t.me/aadityansha) | [Instagram](https://www.instagram.com/_dont_distrube/) | [LinkedIn](https://github.com/aadityansha06. ) 
+📫 **Reach me at:** [Telegram](https://t.me/aadityansha) | [Instagram](https://www.instagram.com/_dont_distrube/) | [LinkedIn](https://www.linkedin.com/in/aadityansha-verma-a4a35a213/)  
 
 ---
 
@@ -38,9 +38,14 @@
 ### 🌎 Connect with Me  
 <p align="center">  
   <a href="https://github.com/Aadityansha"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>  
-  <a href="Your-LinkedIn-Link"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="Your-Telegram-Link"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
-  <a href="Your-Instagram-Link"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
+  <a href="https://www.linkedin.com/in/aadityansha-verma-a4a35a213/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://t.me/aadityansha"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
+  <a href="https://www.instagram.com/_dont_distrube/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
 </p>  
+
+---
+
+### 🌐 Portfolio  
+[Visit My Portfolio](https://aadityansha06.github.io/protfolio-webpage/#contact)
 
 ---
