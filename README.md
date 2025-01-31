@@ -8,7 +8,8 @@
 🌱 **Learning:** DSA, backend frameworks & problem-solving  
 👯 **Looking for collaboration:** Open-source & backend/web projects  
 🤝 **Open to:** Learning new tech & contributing to projects  
-📫 **Reach me at:** [Telegram](https://t.me/aadityansha) | [Instagram](https://www.instagram.com/_dont_distrube/) | [LinkedIn](https://www.linkedin.com/in/aadityansha-verma-a4a35a213/)  
+📫 **Reach me at:**  
+[Telegram](https://t.me/aadityansha) | [Instagram](https://www.instagram.com/_dont_distrube/) | [LinkedIn](https://www.linkedin.com/in/aadityansha-verma-a4a35a213/)  
 
 ---
 
@@ -41,11 +42,7 @@
   <a href="https://www.linkedin.com/in/aadityansha-verma-a4a35a213/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
   <a href="https://t.me/aadityansha"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
   <a href="https://www.instagram.com/_dont_distrube/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
+  <a href="https://aadityansha06.github.io/protfolio-webpage/#contact"><img src="https://img.shields.io/badge/Portfolio-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black"/></a>  
 </p>  
-
----
-
-### 🌐 Portfolio  
-[Visit My Portfolio](https://aadityansha06.github.io/protfolio-webpage/#contact)
 
 ---
