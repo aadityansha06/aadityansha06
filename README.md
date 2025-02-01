@@ -27,12 +27,22 @@
 </p>  
 
 ---
+### 📊 GitHub Stats
 
-### 📊 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadityansha&show_icons=true&theme=radical" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityansha&layout=compact&theme=radical" width="48%"/>  
-</p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityansha06&show_icons=true&theme=dark&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&layout=compact&theme=dark&hide=html,css" width="48%" />
+</p>
+
+### 🌱 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityansha06&theme=dark" />
+</p>
+
+### 💻 Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aadityansha06&theme=react&area=true" />
+</p>
 
 ---
 
