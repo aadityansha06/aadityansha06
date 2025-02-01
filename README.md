@@ -1,19 +1,19 @@
-<h1 align="center">Hi, I'm Aadityansha! 👋</h1>  
-<h3 align="center">A passionate student, backend & web developer, and JEE aspirant.</h3>  
+<h1 align="center">Hi, I'm Aadityansha! 👋</h1>
+<h3 align="center">A passionate student, backend & web developer, and JEE aspirant.</h3>
 
 ---
 
-### 🔥 About Me  
+### 🔥 About Me
 🔭 **Currently working on:** Backend & Web development & JEE preparation  
 🌱 **Learning:** DSA, backend frameworks & problem-solving  
 👯 **Looking for collaboration:** Open-source & backend/web projects  
 🤝 **Open to:** Learning new tech & contributing to projects  
 📫 **Reach me at:**  
-[Telegram](https://t.me/aadityansha) | [Instagram](https://www.instagram.com/_dont_distrube/) | [LinkedIn](https://www.linkedin.com/in/aadityansha-verma-a4a35a213/)  
+[Telegram](https://t.me/aadityansha) | [Instagram](https://www.instagram.com/_dont_distrube/) | [LinkedIn](https://www.linkedin.com/in/aadityansha-verma-a4a35a213/)
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 <p align="center">  
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>  
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
@@ -27,26 +27,21 @@
 </p>  
 
 ---
-### 📊 GitHub Stats
 
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityansha06&show_icons=true&theme=dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&layout=compact&theme=dark&hide=html,css" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityansha06&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&layout=compact&theme=radical&hide=html,css" width="48%" />
 </p>
 
 ### 🌱 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityansha06&theme=dark" />
-</p>
-
-### 💻 Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aadityansha06&theme=react&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityansha06&theme=radical" />
 </p>
 
 ---
 
-### 🌎 Connect with Me  
+### 🌎 Connect with Me
 <p align="center">  
   <a href="https://github.com/Aadityansha"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>  
   <a href="https://www.linkedin.com/in/aadityansha-verma-a4a35a213/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
@@ -54,5 +49,5 @@
   <a href="https://www.instagram.com/_dont_distrube/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
   <a href="https://aadityansha06.github.io/protfolio-webpage/#contact"><img src="https://img.shields.io/badge/Portfolio-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black"/></a>  
 </p>  
-
 ---
+
