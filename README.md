@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/aadityansha-verma-a4a35a213/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
   <a href="https://t.me/aadityansha"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
   <a href="https://www.instagram.com/_dont_distrube/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
-  <a href="https://aadityansha06.github.io/protfolio-webpage/#contact"><img src="https://img.shields.io/badge/Portfolio-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black"/></a>  
+  <a href="https://aadityansha06.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black"/></a>  
 </p>  
 ---
 
