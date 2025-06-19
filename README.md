@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Aadityansha! 👋</h1>
-<h3 align="center">A passionate student, backend & web developer, and JEE aspirant.</h3>
+<h3 align="center">A passionate student, backend & web developer.</h3>
 
 ---
 
 ### 🔥 About Me
-🔭 **Currently working on:** Backend & Web development & JEE preparation  
+🔭 **Currently working on:** Backend & Web development. 
 🌱 **Learning:** DSA, backend frameworks & problem-solving  
 👯 **Looking for collaboration:** Open-source & backend/web projects  
 🤝 **Open to:** Learning new tech & contributing to projects  
