@@ -1,4 +1,14 @@
-<h1 align="center">Hi, I'm Aadityansha! 👋</h1>
+<br>
+<br>
+
+<div align="center" margin-top="10px">
+
+  <strong>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=18A6D1&background=FFFFFF00&width=480&lines=Hi,I'm+Aadityansha!👋)](https://git.io/typing-svg)
+</strong>
+
+</div>
 <h3 align="center">A passionate student, backend & web developer.</h3>
 
 ---
