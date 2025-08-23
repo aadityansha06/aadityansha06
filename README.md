@@ -19,7 +19,7 @@
 👯 **Looking for collaboration:** Open-source & backend/web projects  
 🤝 **Open to:** Learning new tech & contributing to projects  
 📫 **Reach me at:**  
-[Telegram](https://t.me/aadityansha) | [Instagram](https://www.instagram.com/_dont_distrube/) | [LinkedIn](https://www.linkedin.com/in/aadityansha-verma-a4a35a213/)
+[Telegram](https://t.me/aadityansha) | [X](https://x.com/aadityansha_06) | [LinkedIn](https://www.linkedin.com/in/aadityansha-verma-a4a35a213/)
 
 ---
 
