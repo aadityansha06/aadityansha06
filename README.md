@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadityansha06&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&layout=compact&theme=radical&hide=html,css&langs_count=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&theme=radical&hide=html,css&langs_count=10" width="48%" />
 </p>
 
 ### 🌱 GitHub Streak
