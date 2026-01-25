@@ -45,7 +45,7 @@ I'm a dropout who prefers rewriting systems to understand them rather than watch
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Version Control System** | A `git` clone implemented in C. Manages blob hashing, tree objects, and commit history manually to understand data structures. | `C`, `File I/O`, `SHA-1` |
-| **TUI API Client** | A terminal-based alternative to Postman. Curl-like functionality with a visual interface for testing endpoints directly in the CLI. | `C`, `NCurses` |
+| **TUI API Client** | A terminal-based alternative to Postman. Curl-like functionality with a visual interface for testing endpoints directly in the CLI. | `C`, `libcurl` |
 | **x86 Bootloader** | A minimal bootloader written in Assembly that loads a kernel into memory from bare metal. | `Assembly x86-64` |
 
 ---
