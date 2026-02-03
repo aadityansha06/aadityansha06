@@ -66,14 +66,14 @@ I'm a dropout who prefers rewriting systems to understand them rather than watch
 
 ---
 <div align="center">
----
+
 
 ###  Languages Graph
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&layout=compact&theme=transparent&hide_border=true&title_color=FFF1CB&text_color=999&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&layout=compact&theme=transparent&hide_border=true&title_color=FFF1CB&text_color=999&bg_color=0D111)
 
-</div>)
+</div>
 
 </div>
