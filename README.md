@@ -65,4 +65,8 @@ I'm a dropout who prefers rewriting systems to understand them rather than watch
 <img src="https://img.shields.io/badge/GDB_(Debugger)-121011?style=for-the-badge&logo=gnu&logoColor=white" /> <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&layout=pie&theme=transparent&hide_border=true&title_color=23C55E&text_color=999)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&layout=compact&theme=radical&hide_border=true)
+
+</div>
