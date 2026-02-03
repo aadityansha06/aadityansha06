@@ -65,15 +65,4 @@ I'm a dropout who prefers rewriting systems to understand them rather than watch
 <img src="https://img.shields.io/badge/GDB_(Debugger)-121011?style=for-the-badge&logo=gnu&logoColor=white" /> <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
-
-### 👾 Contribution Game
-
-<div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=aadityansha06&color_snake=hsl(135,80%,50%)&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" alt="snake game" />
-</div>
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadityansha06&show_icons=true&theme=transparent&hide_border=true&title_color=23C55E&text_color=999&icon_color=23C55E" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&theme=transparent&hide_border=true&layout=compact&title_color=23C55E&text_color=999&hide=html,css" width="48%" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityansha06&layout=pie&theme=transparent&hide_border=true&title_color=23C55E&text_color=999)](https://github.com/anuraghazra/github-readme-stats)
