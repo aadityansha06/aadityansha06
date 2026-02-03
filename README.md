@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=23C55E&background=0D111700&center=true&vCenter=true&width=500&lines=%3E+./init_systems_engineer.sh;Loading+kernel+modules...;%3E+TCP%2FIP_Stack+loaded;%3E+Memory_Manager+optimized;Subject:+Aadityansha+Verma" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=FFF1CB&background=0D111700&center=true&vCenter=true&width=500&lines=%3E+./init_systems_engineer.sh;Loading+kernel+modules...;%3E+TCP%2FIP_Stack+loaded;%3E+Memory_Manager+optimized;Subject:+Aadityansha+Verma" alt="Typing SVG" />
   </a>
 
   <h3>Backend Architect & Low-Level Systems Developer</h3>
