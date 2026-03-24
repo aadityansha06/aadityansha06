@@ -26,7 +26,11 @@ Aadityansha
 <br>
 <code>Systems | CUDA | Deep learning | Distributed</code>
 
-<br><br>
+<br>
+
+And Yes i use vim btw 
+
+<br>
 
 <p>
   <a href="https://github.com/Aadityansha">
