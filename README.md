@@ -12,7 +12,7 @@ Aadityansha
 
 <code>I love C and re-create stuff in it</code>
 <br>
-<code>Believes in Bottom-to-top approach</code>
+<code>Believes in Bottom-to-top approach<br>Preventing tutorial hell and learn while building</code>
 <br>
 <code><strong>Not highly skilled but can write code in</strong></code>
 <br>
