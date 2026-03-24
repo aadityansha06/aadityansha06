@@ -20,7 +20,7 @@ Preventing tutorial hell and learn while building</code>
 <br>
 <code>C • Go • Assembly • Javascript</code>
 
-<code><i>'or any other language if u wish :-)'</i></code>
+<code><i>'or any other language of your choice :-)'</i></code>
 
 <br>
 
