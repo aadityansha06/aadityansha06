@@ -7,7 +7,7 @@ Aadityansha
 
 <br>
 
-<i>Engineering Philosophy</i>
+<i>A little bit of my intro</i>
 
 <code>Bypassing high-level wrappers to build core systems from scratch.</code>
 <br>
