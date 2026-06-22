@@ -1,32 +1,30 @@
-
 <div align="center">
 
 Aadityansha
 <br>
 <br>
-<code>An 18-yo trying to learn code by recreating stuff...</code>
+<code>HPC | Systems | ML/Infrence Engineer | Optimizing Compute & Bare-Metal Systems</code>
 
 <br>
 
-<i>A little bit of my intro</i>
+<i>Engineering Philosophy</i>
 
-<code>I love C and re-create stuff in it</code>
+<code>Bypassing high-level wrappers to build core systems from scratch.</code>
 <br>
-<code>Believes in Bottom-to-top approach
-Preventing tutorial hell and learn while building</code>
+<code>Strict bottom-to-top approach: from raw memory management to fused CUDA kernels.</code>
 <br>
-<code><strong>Not highly skilled but can write code in</strong></code>
+<code><strong>Bare-metal execution in</strong></code>
 <br>
 <br>
-<code>C • Go • Assembly • Javascript</code>
+<code>C • Assembly (x86-64) • CUDA • Go</code>
 
-<code><i>'or any other language of your choice :-)'</i></code>
+<code><i>'Engineering at the silicon level.'</i></code>
 
 <br>
 
-<code><strong>So far I have explored</strong></code>
+<code><strong>Current Engineering Focus</strong></code>
 <br>
-<code>Systems | CUDA | Deep learning | Distributed</code>
+<code>Systems Infrastructure | AI Inference Optimization | CPU/GPU Matrix Math</code>
 
 <br>
 
@@ -47,4 +45,3 @@ And Yes i use vim btw
 </p>
 
 </div>
-
