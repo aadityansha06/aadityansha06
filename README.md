@@ -27,6 +27,10 @@ Aadityansha
 <code>Systems Infrastructure | AI Inference Optimization | CPU/GPU Matrix Math</code>
 
 <br>
+<a href="https://drive.google.com/file/d/1XnwPjfls4jCZEmlDvMYCypUfWXNkz2Xh/view?usp=sharing">
+  Resume 
+</a>
+<br>
 
 And Yes i use vim btw 
 
