@@ -9,16 +9,10 @@ Aadityansha
 
 <i>A little bit of my intro</i>
 
-<code>Bypassing high-level wrappers to build core systems from scratch.</code>
-<br>
-<code>Strict bottom-to-top approach: from raw memory management to fused CUDA kernels.</code>
-<br>
-<code><strong>Bare-metal execution in</strong></code>
-<br>
+
 <br>
 <code>C • Assembly (x86-64) • CUDA • Go</code>
 
-<code><i>'Engineering at the silicon level.'</i></code>
 
 <br>
 
