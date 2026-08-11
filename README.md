@@ -38,8 +38,17 @@ And Yes i use vim btw
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/aadityansha_06">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x
+&logoColor=white" />
   </a>
 </p>
+
+<br>
+
+<code><strong>Open Source</strong></code>
+<br>
+<code>OpenBLAS — transpose support for GEADD</code> · <a href="https://github.com/OpenMathLib/OpenBLAS/pull/5913">#5913</a>
+<br>
+<code>Harvard MLSYSTEMS — fixed silent WASM save-loss bug</code> · <a href="https://github.com/harvard-edge/cs249r_book/pull/1988">#1988</a>
 
 </div>
