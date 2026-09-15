@@ -31,8 +31,8 @@ And Yes i use vim btw
 <br>
 
 <p>
-  <a href="https://github.com/Aadityansha">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://x.com/aadityansha_06">
+    <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aadityansha-verma-a4a35a213/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
