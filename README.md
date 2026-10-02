@@ -22,8 +22,9 @@ Aadityansha
 
 <br>
 <a href="https://drive.google.com/file/d/1XnwPjfls4jCZEmlDvMYCypUfWXNkz2Xh/view?usp=sharing">
-  Resume (may not be up-to-date)
+  Resume 
 </a>
+(may not be up-to-date)
 <br>
 
 And Yes i use vim btw 
