@@ -22,7 +22,7 @@ Aadityansha
 
 <br>
 <a href="https://drive.google.com/file/d/1XnwPjfls4jCZEmlDvMYCypUfWXNkz2Xh/view?usp=sharing">
-  Resume 
+  Resume (may not be up-to-date)
 </a>
 <br>
 
