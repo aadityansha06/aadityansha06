@@ -24,6 +24,7 @@ Aadityansha
 <a href="https://drive.google.com/file/d/1XnwPjfls4jCZEmlDvMYCypUfWXNkz2Xh/view?usp=sharing">
   Resume 
 </a>
+<br>
 (may not be up-to-date)
 <br>
 
