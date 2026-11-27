@@ -21,11 +21,11 @@ Aadityansha
 <code>Systems Infrastructure | AI Inference Optimization | CPU/GPU Matrix Math</code>
 
 <br>
-<a href="https://drive.google.com/file/d/1XnwPjfls4jCZEmlDvMYCypUfWXNkz2Xh/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1qeALfqAbBtSVMADLYPPvhxwK8KKjCiuI/view?usp=drivesdk">
   Resume 
 </a>
 <br>
-(may not be up-to-date)
+(Updated till August 2026)
 <br>
 <br>
 
